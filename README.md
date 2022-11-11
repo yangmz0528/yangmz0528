@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **AWS Machine Learning from Udacity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yangmz0528?tab=repositories](https://github.com/yangmz0528?tab=repositories)
+- 👨‍💻 All of my projects are available at [link to my repo](https://github.com/yangmz0528?tab=repositories)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jzYmIU0QHvcizScmMp9AVfzT42Sol1bi/view?usp=sharing](https://drive.google.com/file/d/1jzYmIU0QHvcizScmMp9AVfzT42Sol1bi/view?usp=sharing)
+- 📄 Know about my experiences [link to resume](https://drive.google.com/file/d/1jzYmIU0QHvcizScmMp9AVfzT42Sol1bi/view?usp=sharing)
 
 - ⚡ Fun fact **I have played before 7 instruments!**
 
