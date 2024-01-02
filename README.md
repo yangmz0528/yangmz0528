@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **DevOps, Terraform**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yangmz0528?tab=repositories](https://github.com/yangmz0528?tab=repositories)
+- 👨‍💻 All of my projects are available at [link](https://github.com/yangmz0528?tab=repositories)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jzYmIU0QHvcizScmMp9AVfzT42Sol1bi/view?usp=sharing](https://drive.google.com/file/d/1jzYmIU0QHvcizScmMp9AVfzT42Sol1bi/view?usp=sharing)
+- 📄 Know about my experiences [link](https://drive.google.com/file/d/1jzYmIU0QHvcizScmMp9AVfzT42Sol1bi/view?usp=sharing)
 
 - ⚡ Fun fact **I have played before 7 instruments!**
 
