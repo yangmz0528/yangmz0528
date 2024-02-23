@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [link](https://github.com/yangmz0528?tab=repositories)
 
-- 📄 Know about my experiences
+- 📄 Know about my experiences at [link](https://drive.google.com/file/d/1B2iAudH1V7Lxg91X7KxGod3jtX72yLZl/view?usp=sharing)
 
 - ⚡ Fun fact **I have played before 7 instruments!**
 
