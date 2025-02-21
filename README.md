@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mingzi</h1>
-<h3 align="center">A passionate Data Engineer that is interested in DevOps/Cloud Infrastruture, Data Science/Machine Learning.</h3>
+<h3 align="center">Cloud Engineer that is interested in DevOps/Cloud Infrastruture, Databaase Administration, Data Science/Machine Learning.</h3>
 
-- 🌱 I’m currently learning **DevOps, Terraform**
+- 🌱 I’m currently learning **DevOps, Terraform, Database Adminstration**
 
 - 👨‍💻 All of my projects are available at [link](https://github.com/yangmz0528?tab=repositories)
 
-- 📄 Know about my experiences at [link](https://drive.google.com/file/d/1zjIEI3_CxTr15YcR6chentkIG_AJd8nY/view?usp=sharing)
+- 📄 Know about my experiences at [link](https://drive.google.com/file/d/1jmy4DzVJhbCWtU1ExnErCbFTnrxUpuoI/view?usp=sharing)
 
 - ⚡ Fun fact **I have played before 7 instruments!**
 
