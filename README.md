@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mingzi</h1>
-<h3 align="center">Cloud Engineer that is interested in DevOps/Cloud Infrastruture, Databaase Administration, Data Science/Machine Learning.</h3>
+<h3 align="center">Cloud Engineer that is interested in DevOps/Cloud Infrastruture, Database Administration, Data Science/Machine Learning.</h3>
 
 - 🌱 I’m currently learning **DevOps, Terraform, Database Adminstration**
 
